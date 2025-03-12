@@ -39,28 +39,13 @@ Ministry of Defence
 
 
 ## Proposed Solution / Architecture Diagram
-1 AI-based fraud detection module (Real-time transaction scanning).
 
-2 User authentication system (Biometric + MFA).
-
-3 Threat intelligence database (Updated with new phishing sites & fraud patterns).
-
-4 Blockchain-based transaction ledger (Immutable records).
-
-5 Web & mobile app integration (For seamless user experience).
-
+![image](https://github.com/user-attachments/assets/8baf4667-f93b-41a3-a714-81e4e58d56b5)
 
 
 ## Use Cases
-1 Use Case 1: A user tries to log in from an unknown device → AI detects risk → Triggers additional verification.
 
-2 Use Case 2: A bank receives multiple fraud complaints → System detects scam trends → Automates security alerts to affected users.
-
-3 Use Case 3: A user receives a suspicious email → Platform scans URL → Alerts user & reports phishing site.
-
-4 Use Case 4: A user enables MFA & biometric login → Earns reward points for securing their account.
-
-
+![image](https://github.com/user-attachments/assets/4435f57f-dc39-42c6-80c3-d3b1fcf9fad0)
 
 ## Technology Stack
 1 Frontend: React.js
